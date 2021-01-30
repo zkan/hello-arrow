@@ -1,2 +1,1 @@
-# hellow-arrow
-Hello, Apache Arrow!
+# Hello, Apache Arrow!
